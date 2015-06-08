@@ -1,0 +1,11 @@
+*~
+*.pyc
+.cache
+*.sqlite
+*.sqlite3
+*.pickle
+local_settings.py
+static/CACHE
+media/
+.vagrant/
+.idea
