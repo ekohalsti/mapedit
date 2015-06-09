@@ -12,22 +12,41 @@
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<title>Title Goes Here</title>
 <link rel='stylesheet'  href='/static/editor/style.css' type='text/css' media='all' />
+<link rel='stylesheet'  href='/static/editor/leaflet/leaflet.css' type='text/css' media='all' />
+<script src="/static/editor/leaflet/leaflet.js"></script>
+<script src="/static/editor/leaflet.TileLayer.WMTS/leaflet-tilelayer-wmts.js"></script>
 
 </head>
 {% url 'palvelut_json' %}
 <body>
-<p>
-MOimoi
-</p>
+    <div id="map"></div>
 {% block content %}
+    palvelut = [
+        {% for p in palvelut %}
+            {{ p.nimi }}: {{ p.geom.geojson }}<br>
+        {% endfor %}
+    ]
 <pre>
-var palvelut = [
-    {% for p in palvelut %}
-{{ p.nimi }}: {{ p.geom.geojson }}<br>
-]
-{% endfor %}
+<script type="application/javascript">
+    var palvelut = [
+        {% for p in palvelut %}
+            {{ p.nimi }}:{{ p.geom.geojson }}
+        {% endfor %}
+        ]
+    var map = L.map('map');
+    map.locate({setView: true, maxZoom: 16});
+    //var url = "http://avaa.tdata.fi/geoserver/gwc/service/wmts";
+    var url = "http://avoindata.maanmittauslaitos.fi/geoserver/ows";
+    var base = new L.TileLayer.WMS(url,
+        {
+            layers: 'Taustakartta',
+        });
+    map.addLayer(base);
+    data = new L.geoJson();
+    data.addData(palvelut);
+    data.addTo(map);
+</script>
 </pre>
 {% endblock content %}
-
 </body>
 </html>
