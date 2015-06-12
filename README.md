@@ -4,7 +4,10 @@ Mapeditor
 Requirements:
  PostgreSQL,
  PostGIS,
- Python 2
+ Python 2,
+ Python-dev,
+ PostgreSQL-dev,
+ psycogp2
 
 Create database:
 - createdb open_data;psql open_data
@@ -14,5 +17,5 @@ Create database:
 
 Database creation using shp2pgsql:
  - Use the name of the db & user as parameters here.
- - shp2pgsql -IiSD -s 3067 -g geom varsinaissuomenpalvelut.shp > palvelut.sql;psql -U user -W database < palvelut.sql
+ - shp2pgsql -IiSD -s 3067 -g geom -W LATIN1 varsinaissuomenpalvelut.shp > palvelut.sql;psql -U user -W database < palvelut.sql
 
