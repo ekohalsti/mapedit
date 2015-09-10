@@ -1,40 +1,41 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 
         "http://www.w3.org/TR/html4/loose.dtd">
-
-
-
 <html lang="en">
-
-
-
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
-	<title>Title Goes Here</title>
+<title>ME - MapEdit - Map Editor for the lazy</title>
 <link rel='stylesheet'  href='/static/editor/style.css' type='text/css' media='all' />
 <link rel='stylesheet'  href='/static/editor/leaflet/leaflet.css' type='text/css' media='all' />
+<script src="/static/editor/jquery/jquery-2.1.4.min.js"></script>
 <script src="/static/editor/leaflet/leaflet.js"></script>
 <script src="/static/editor/leaflet.TileLayer.WMTS/leaflet-tilelayer-wmts.js"></script>
+<script src="/static/editor/jquery-plugin-query-object-master/jquery.query-object.js"></script>
 
 </head>
 {% url 'palvelut_json' %}
 <body>
     <div id="map"></div>
 {% block content %}
-    palvelut = [
-        {% for p in palvelut %}
-            {{ p.nimi }}: {{ p.geom.geojson }}<br>
-        {% endfor %}
-    ]
+ geom =
+ {% for p in geom %}
+    {{p}}
+    {% endfor %}
+<br>
+  palvelut =
+    {% for p in palvelut %}
+      {{p}}
+      {% endfor %}
 <pre>
 <script type="application/javascript">
-    var palvelut = [
-        {% for p in palvelut %}
-            {{ p.nimi }}:{{ p.geom.geojson }}
-        {% endfor %}
-        ]
+    String.prototype.capitalize = function() {
+      return this.charAt(0).toUpperCase() + this.slice(1);
+    }
+    var palvelut = [{{palvelut|safe}}];
+    //http://127.0.0.1:8000/editor/?sw_lat=60.44763071676771&sw_lon=22.204484939575195&ne_lat=60.45821232182131&ne_lon=22.286195755004883
     var map = L.map('map');
     map.locate({setView: true, maxZoom: 16});
+
     //var url = "http://avaa.tdata.fi/geoserver/gwc/service/wmts";
     var url = "http://avoindata.maanmittauslaitos.fi/geoserver/ows";
     var base = new L.TileLayer.WMS(url,
@@ -42,9 +43,36 @@
             layers: 'Taustakartta',
         });
     map.addLayer(base);
-    data = new L.geoJson();
-    data.addData(palvelut);
-    data.addTo(map);
+    map.on('locationfound', function(){
+      var sw = map.getBounds().getSouthWest();
+      var ne = map.getBounds().getNorthEast();
+      window.location.search = "sw_lat=" + sw.lat + "&" + "sw_lon=" + sw.lng + "&" + "ne_lat=" + ne.lat + "&" + "nw_lat=" + ne.lng;
+    });
+    map.on('dragend', function(){
+      var sw = map.getBounds().getSouthWest();
+      var ne = map.getBounds().getNorthEast();
+      window.location.search = "sw_lat=" + sw.lat + "&" + "sw_lon=" + sw.lng + "&" + "ne_lat=" + ne.lat + "&" + "nw_lat=" + ne.lng;
+    });
+
+    var layer = new L.geoJson(palvelut, {onEachFeature: show_info}).addTo(map);
+
+    function update_url(){
+
+    }
+
+    function show_info(feature, layer){
+      var info;
+      for(var key in feature.properties){
+        if(feature.properties.hasOwnProperty(key) && feature.properties[key] != null){
+          if(info != undefined)
+            info += key.capitalize().bold() + ": " + feature.properties[key] + "<br>";
+          else
+            info = key.capitalize().bold() + ": " + feature.properties[key] + "<br>";
+        }
+      }
+      layer.bindPopup(info);
+    }
+
 </script>
 </pre>
 {% endblock content %}

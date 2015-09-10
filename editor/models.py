@@ -10,6 +10,17 @@
 from __future__ import unicode_literals
 
 from django.contrib.gis.db import models
+from django.contrib.gis.geos import GEOSGeometry
+
+class DjangoMigrations(models.Model):
+    app = models.CharField(max_length=255)
+    name = models.CharField(max_length=255)
+    applied = models.DateTimeField()
+
+    class Meta:
+        managed = False
+        db_table = 'django_migrations'
+
 
 class Varsinaissuomenpalvelut(models.Model):
     gid = models.AutoField(primary_key=True)
@@ -19,6 +30,7 @@ class Varsinaissuomenpalvelut(models.Model):
     nimi = models.CharField(max_length=254, blank=True, null=True)
     aukiolo = models.CharField(max_length=50, blank=True, null=True)
     kunta_2011 = models.CharField(max_length=254, blank=True, null=True)
+    lis_tiedot = models.CharField(db_column='lis\xe4tiedot', max_length=254, blank=True, null=True)  # Field renamed to remove unsuitable characters.
     katuosoite = models.CharField(max_length=254, blank=True, null=True)
     kuntanro = models.IntegerField(blank=True, null=True)
     kohdenro = models.IntegerField(blank=True, null=True)
@@ -32,13 +44,9 @@ class Varsinaissuomenpalvelut(models.Model):
     legend = models.CharField(max_length=250, blank=True, null=True)
     postinro = models.CharField(max_length=5, blank=True, null=True)
     kohde2 = models.CharField(max_length=80, blank=True, null=True)
-    lisatiedot = models.CharField(max_length=254, blank=True, null=True)
-    geom = models.GeometryField(blank=True, null=True)
+    geom = models.PointField(srid=3067, dim=4, blank=True, null=True)
     objects = models.GeoManager()
 
     class Meta:
-        managed = True
+        managed = False
         db_table = 'varsinaissuomenpalvelut'
-        
-    def __unicode__(self):
-        return self.nimi
