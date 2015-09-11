@@ -1,0 +1,1250 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 1.11.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="90.000000000000000" minlon="180.000000000000000" maxlat="6795141.811700001400000" maxlon="330591.613599999810000"/></metadata>        
+<wpt lat="6715110.5226" lon="205855.86419999972">
+  <extensions>
+    <ogr:ID>50.0</ogr:ID>
+    <ogr:Kohde>Pirunpes?</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6759136.1123470617" lon="267142.34446800832">
+  <extensions>
+    <ogr:ID>94.0</ogr:ID>
+    <ogr:Kohde>Siirtolohkare Teinienkivi</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6699416.984" lon="176887.2472000001">
+  <extensions>
+    <ogr:ID>144.0</ogr:ID>
+    <ogr:Kohde>Kallioalue</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6709882.075099999" lon="178948.56869999971">
+  <extensions>
+    <ogr:ID>146.0</ogr:ID>
+    <ogr:Kohde>Harjusaari</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6714398.0321" lon="181220.58069999982">
+  <extensions>
+    <ogr:ID>145.0</ogr:ID>
+    <ogr:Kohde>Kalliosaari</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6734552.8773" lon="183918.85620000027">
+  <extensions>
+    <ogr:ID>60.0</ogr:ID>
+    <ogr:Kohde>Vehmaan rapakiven ja kiillegneissin kontakti</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6754727.8983" lon="188582.0084">
+  <extensions>
+    <ogr:ID>57.0</ogr:ID>
+    <ogr:Kohde>Rakennuskivilouhos</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6726525.5326" lon="188832.03139999975">
+  <extensions>
+    <ogr:ID>62.0</ogr:ID>
+    <ogr:Kohde>Siirtolohkare L?ytyn kivi</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6684055.2862" lon="186641.2854000004">
+  <extensions>
+    <ogr:ID>143.0</ogr:ID>
+    <ogr:Kohde>Harjusaari</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6759751.3647" lon="194620.49660000019">
+  <extensions>
+    <ogr:ID>59.0</ogr:ID>
+    <ogr:Kohde>Pirunpelto</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6640304.1448" lon="183947.0559">
+  <extensions>
+    <ogr:ID>152.0</ogr:ID>
+    <ogr:Kohde>Rantakirnu</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6729310.0808" lon="192885.57220000029">
+  <extensions>
+    <ogr:ID>61.0</ogr:ID>
+    <ogr:Kohde>Hiidenkirnu ja rapakivikallio</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6753942.1424" lon="196599.79860000033">
+  <extensions>
+    <ogr:ID>55.0</ogr:ID>
+    <ogr:Kohde>Hiidenkirnu</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6753573.7994" lon="197219.20710000023">
+  <extensions>
+    <ogr:ID>56.0</ogr:ID>
+    <ogr:Kohde>Hiidenkirnu</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6795141.8117000014" lon="201541.5822">
+  <extensions>
+    <ogr:ID>75.0</ogr:ID>
+    <ogr:Kohde>Kivilatomus Vihitynmaan rinki</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6678540.0073" lon="195333.53519999981">
+  <extensions>
+    <ogr:ID>150.0</ogr:ID>
+    <ogr:Kohde>Kallioniemi</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6732032.3899" lon="200470.5619">
+  <extensions>
+    <ogr:ID>77.0</ogr:ID>
+    <ogr:Kohde>Rakennuskivilouhos</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6770372.6906" lon="205132.28899999987">
+  <extensions>
+    <ogr:ID>64.0</ogr:ID>
+    <ogr:Kohde>Luolasto ja siirtolohkareita</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6734305.400699999" lon="201985.0143">
+  <extensions>
+    <ogr:ID>58.0</ogr:ID>
+    <ogr:Kohde>Luola ja siirtolohkare Morsiuskivi</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6751612.2805" lon="206334.4145">
+  <extensions>
+    <ogr:ID>53.0</ogr:ID>
+    <ogr:Kohde>Sienen muotoinen rapakivilohkare</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6644369.9034" lon="197600.79519999959">
+  <extensions>
+    <ogr:ID>151.0</ogr:ID>
+    <ogr:Kohde>Mannerj??n reunamuodostuma, Jurmo</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6719572.8115" lon="204857.12789999973">
+  <extensions>
+    <ogr:ID>76.0</ogr:ID>
+    <ogr:Kohde>Hiekkakivijuoni kalliossa</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6715058.8764" lon="205871.23909999989">
+  <extensions>
+    <ogr:ID>51.0</ogr:ID>
+    <ogr:Kohde>K??rmeluolat</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6746005.429199999" lon="208744.3684">
+  <extensions>
+    <ogr:ID>54.0</ogr:ID>
+    <ogr:Kohde>Siirtolohkare Himmenvahankivi</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6759976.8258621478" lon="213218.46895406395">
+  <extensions>
+    <ogr:ID>63.0</ogr:ID>
+    <ogr:Kohde>Moroutunut rapakivilohkare Morohattu</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6738973.9575" lon="213545.9888000004">
+  <extensions>
+    <ogr:ID>78.0</ogr:ID>
+    <ogr:Kohde>Topaasikiviesiintym? kalliossa</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6721482.0182" lon="212326.5724">
+  <extensions>
+    <ogr:ID>16.0</ogr:ID>
+    <ogr:Kohde>Kallioalue, lohkareluola, hiidenkirnu</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle, Seikkailijan opas</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6735448.1888" lon="213645.04030000046">
+  <extensions>
+    <ogr:ID>80.0</ogr:ID>
+    <ogr:Kohde>Rakennuskivilouhos</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6758755.9482" lon="216525.36849999987">
+  <extensions>
+    <ogr:ID>66.0</ogr:ID>
+    <ogr:Kohde>Linnavuori ja luolastot</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6736226.3189" lon="215022.49859999958">
+  <extensions>
+    <ogr:ID>79.0</ogr:ID>
+    <ogr:Kohde>Louhikkoinen m?kialue ja reunamoreeneja</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6768562.8221" lon="218490.79650000017">
+  <extensions>
+    <ogr:ID>65.0</ogr:ID>
+    <ogr:Kohde>Rapakivigraniitin ja diabaasin kontakti</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6740904.0286" lon="216606.48450000025">
+  <extensions>
+    <ogr:ID>71.0</ogr:ID>
+    <ogr:Kohde>Vuosimoreenisel?nteet</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6719378.175899999" lon="214676.18709999975">
+  <extensions>
+    <ogr:ID>32.0</ogr:ID>
+    <ogr:Kohde>Hiidenkirnu</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6694122.118899999" lon="212881.46569999959">
+  <extensions>
+    <ogr:ID>153.0</ogr:ID>
+    <ogr:Kohde>Hiidenkirnut</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6711258.649599999" lon="218867.10410000011">
+  <extensions>
+    <ogr:ID>33.0</ogr:ID>
+    <ogr:Kohde>Kallioalue</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6747161.8948" lon="222324.25">
+  <extensions>
+    <ogr:ID>67.0</ogr:ID>
+    <ogr:Kohde>Siirtolohkare</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6725895.5801" lon="221411.2505">
+  <extensions>
+    <ogr:ID>24.0</ogr:ID>
+    <ogr:Kohde>Siirtolohkare alue</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6705470.0241" lon="219543.87399999984">
+  <extensions>
+    <ogr:ID>47.0</ogr:ID>
+    <ogr:Kohde>Kallioalueet</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6730370.0417" lon="221921.24490000028">
+  <extensions>
+    <ogr:ID>70.0</ogr:ID>
+    <ogr:Kohde>Pirunpelto</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6730378.1115" lon="222052.59420000017">
+  <extensions>
+    <ogr:ID>69.0</ogr:ID>
+    <ogr:Kohde>Simpukkamaaesiintym?</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6703186.9878" lon="220340.05339999963">
+  <extensions>
+    <ogr:ID>46.0</ogr:ID>
+    <ogr:Kohde>N?k?alakallio</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6731883.7805" lon="223164.9888000004">
+  <extensions>
+    <ogr:ID>68.0</ogr:ID>
+    <ogr:Kohde>Migmatiittikallioleikkaus</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6743049.6509" lon="224549.4786">
+  <extensions>
+    <ogr:ID>72.0</ogr:ID>
+    <ogr:Kohde>Hiidenkiuas</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6731547.6816" lon="226067.87370000035">
+  <extensions>
+    <ogr:ID>36.0</ogr:ID>
+    <ogr:Kohde>Pronssikautinen hiidenkiuas</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6680821.6315" lon="222117.40340000018">
+  <extensions>
+    <ogr:ID>154.0</ogr:ID>
+    <ogr:Kohde>Skapoliittiesiintym? kalliossa</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6716463.732799999" lon="225672.38190000039">
+  <extensions>
+    <ogr:ID>30.0</ogr:ID>
+    <ogr:Kohde>Kalliorotko ja luola</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6712523.5195" lon="225693.95760000031">
+  <extensions>
+    <ogr:ID>35.0</ogr:ID>
+    <ogr:Kohde>N?k?alakallio</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6737521.284499999" lon="228855.30449999962">
+  <extensions>
+    <ogr:ID>74.0</ogr:ID>
+    <ogr:Kohde>Kalliojyrk?nne ja luolia</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6749204.736099999" lon="230177.24419999961">
+  <extensions>
+    <ogr:ID>73.0</ogr:ID>
+    <ogr:Kohde>Hiidenkirnu, laattalohkare Tapion p?yt? ja lohjarerykelm? Nunnainkasa</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6685304.4377" lon="225841.35520000011">
+  <extensions>
+    <ogr:ID>155.0</ogr:ID>
+    <ogr:Kohde>N?k?alakallio, muinaisrantakivikkoja ja luola</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6711059.2182" lon="228744.83519999962">
+  <extensions>
+    <ogr:ID>34.0</ogr:ID>
+    <ogr:Kohde>Kallioniemi</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6709275.2719" lon="229797.4095">
+  <extensions>
+    <ogr:ID>13.0</ogr:ID>
+    <ogr:Kohde>Siirtolohkare, Kukkarokivi</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6729083.9991" lon="231799.85919999983">
+  <extensions>
+    <ogr:ID>37.0</ogr:ID>
+    <ogr:Kohde>Siirtolohkare, Emovaha</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6713739.0336" lon="231300.3825000003">
+  <extensions>
+    <ogr:ID>43.0</ogr:ID>
+    <ogr:Kohde>Siirtolohkare</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6725859.981699999" lon="232559.6371">
+  <extensions>
+    <ogr:ID>31.0</ogr:ID>
+    <ogr:Kohde>M?tik?n luola</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6714530.9503" lon="232528.06639999989">
+  <extensions>
+    <ogr:ID>44.0</ogr:ID>
+    <ogr:Kohde>Amfiboliittikallioalue</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6721776.362199999" lon="233492.00409999955">
+  <extensions>
+    <ogr:ID>29.0</ogr:ID>
+    <ogr:Kohde>Kallioalue ja sorakuopat</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6721228.1114" lon="233994.381">
+  <extensions>
+    <ogr:ID>28.0</ogr:ID>
+    <ogr:Kohde>Keidassuo</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6706170.837099999" lon="232768.69859999977">
+  <extensions>
+    <ogr:ID>2.0</ogr:ID>
+    <ogr:Kohde>Skapoliittiesiintym? kalliossa</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6719835.361199999" lon="235162.9101">
+  <extensions>
+    <ogr:ID>45.0</ogr:ID>
+    <ogr:Kohde>Hiidenkirnu Musta pata, muinaisranta ja luontopolku</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6727876.8301" lon="240378.99679999985">
+  <extensions>
+    <ogr:ID>52.0</ogr:ID>
+    <ogr:Kohde>Kohosuot</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6716999.9408" lon="239584.87590000033">
+  <extensions>
+    <ogr:ID>7.0</ogr:ID>
+    <ogr:Kohde>Kohosuot</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6692682.8401" lon="237464.26559999958">
+  <extensions>
+    <ogr:ID>157.0</ogr:ID>
+    <ogr:Kohde>Vanhat kalkkikivilouhokset</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6714590.8094" lon="239565.52450000029">
+  <extensions>
+    <ogr:ID>14.0</ogr:ID>
+    <ogr:Kohde>Pirunpelto ja n?k?alakallio</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6702438.6126" lon="238656.1147">
+  <extensions>
+    <ogr:ID>5.0</ogr:ID>
+    <ogr:Kohde>N?k?alakallio ja hiidenkiuas</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6706974.1264" lon="239150.73599999957">
+  <extensions>
+    <ogr:ID>15.0</ogr:ID>
+    <ogr:Kohde>Siirtolohkare</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6708202.9209" lon="239664.81319999974">
+  <extensions>
+    <ogr:ID>4.0</ogr:ID>
+    <ogr:Kohde>Silokallio</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6706428.594799999" lon="239844.2555">
+  <extensions>
+    <ogr:ID>3.0</ogr:ID>
+    <ogr:Kohde>Siirtolohkareita, mm. kuninkaankivi</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6716417.6818838082" lon="240847.71723512176">
+  <extensions>
+    <ogr:ID>9.0</ogr:ID>
+    <ogr:Kohde>Siirtolohkareita ja muinaisranta</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6708645.7185397763" lon="240265.73306238686">
+  <extensions>
+    <ogr:ID>11.0</ogr:ID>
+    <ogr:Kohde>Luolavuoren luola</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6708639.9436" lon="240598.7751000002">
+  <extensions>
+    <ogr:ID>10.0</ogr:ID>
+    <ogr:Kohde>Siirtolohkareita</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6712497.946599999" lon="241031.69969999976">
+  <extensions>
+    <ogr:ID>1.0</ogr:ID>
+    <ogr:Kohde>Vanha maanvy?rym?</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6716229.1515" lon="241423.0165">
+  <extensions>
+    <ogr:ID>8.0</ogr:ID>
+    <ogr:Kohde>Vanha rakennuskivilouhos</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6693619.444" lon="239860.14">
+  <extensions>
+    <ogr:ID>158.0</ogr:ID>
+    <ogr:Kohde>Limbergin ja Skr?bb?len kalkkikivikaivokset, kaivosmuseo</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6701545.4086" lon="241397.27">
+  <extensions>
+    <ogr:ID>18.0</ogr:ID>
+    <ogr:Kohde>Halkeamaluola</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6707912.8236" lon="242290.2511">
+  <extensions>
+    <ogr:ID>6.0</ogr:ID>
+    <ogr:Kohde>Harjusel?nne</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6713870.0605" lon="242834.66860000044">
+  <extensions>
+    <ogr:ID>12.0</ogr:ID>
+    <ogr:Kohde>Kivilajisulkeuma, J?ttil?isen jalanj?lki</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6760228.5702" lon="247111.24959999975">
+  <extensions>
+    <ogr:ID>100.0</ogr:ID>
+    <ogr:Kohde>Hiidenkirnut</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6694429.4196" lon="241661.81180000026">
+  <extensions>
+    <ogr:ID>160.0</ogr:ID>
+    <ogr:Kohde>Siirtolohkare Tummelsten</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6712374.6991" lon="244907.8942">
+  <extensions>
+    <ogr:ID>17.0</ogr:ID>
+    <ogr:Kohde>Kuppikivet, rautakauden asuinpaikka, luolioa ja n?k?alakallio</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6713830.6019" lon="245683.84819999989">
+  <extensions>
+    <ogr:ID>25.0</ogr:ID>
+    <ogr:Kohde>Kuninkaan?hde</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6714496.955499999" lon="246086.2891">
+  <extensions>
+    <ogr:ID>27.0</ogr:ID>
+    <ogr:Kohde>Rautakautinen linnavuori</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6681361.8822" lon="243744.69890000019">
+  <extensions>
+    <ogr:ID>156.0</ogr:ID>
+    <ogr:Kohde>Entinen malmikaivos ja kalkkikivilouhokset</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6710819.7228" lon="246754.66420000046">
+  <extensions>
+    <ogr:ID>20.0</ogr:ID>
+    <ogr:Kohde>Littoistenj?rvi</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6660908.6602" lon="242444.6935">
+  <extensions>
+    <ogr:ID>141.0</ogr:ID>
+    <ogr:Kohde>Hiidenkirnu</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6742254.8179" lon="250103.5737">
+  <extensions>
+    <ogr:ID>87.0</ogr:ID>
+    <ogr:Kohde>Rajakivi ja keidassuo</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6706256.9109" lon="247221.7023">
+  <extensions>
+    <ogr:ID>21.0</ogr:ID>
+    <ogr:Kohde>Hautar?ykki?</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6706143.645199999" lon="247362.02599999961">
+  <extensions>
+    <ogr:ID>22.0</ogr:ID>
+    <ogr:Kohde>Hautar?ykki?</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6691437.4586" lon="246160.13090000022">
+  <extensions>
+    <ogr:ID>159.0</ogr:ID>
+    <ogr:Kohde>Siirros graniittikalliossa</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6706277.5504" lon="247655.50960000046">
+  <extensions>
+    <ogr:ID>23.0</ogr:ID>
+    <ogr:Kohde>Hautar?ykki?</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6654179.577199999" lon="243319.28870000038">
+  <extensions>
+    <ogr:ID>139.0</ogr:ID>
+    <ogr:Kohde>Muinaisrantakivikko</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6758863.2126" lon="253012.9156">
+  <extensions>
+    <ogr:ID>99.0</ogr:ID>
+    <ogr:Kohde>Turvetuotantoalue</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6651775.9677" lon="243241.39510000031">
+  <extensions>
+    <ogr:ID>140.0</ogr:ID>
+    <ogr:Kohde>Geologinen luontopolku rantakalliolla</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6714095.1181" lon="249163.4287">
+  <extensions>
+    <ogr:ID>26.0</ogr:ID>
+    <ogr:Kohde>Jokikirnu</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6645129.4107" lon="243983.35130000021">
+  <extensions>
+    <ogr:ID>142.0</ogr:ID>
+    <ogr:Kohde>Hiidenkirnut</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6758955.1832" lon="254528.05680000037">
+  <extensions>
+    <ogr:ID>98.0</ogr:ID>
+    <ogr:Kohde>Siirtolohkare Puoliv?linkivi</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6705230.399599999" lon="250322.11139999982">
+  <extensions>
+    <ogr:ID>19.0</ogr:ID>
+    <ogr:Kohde>N?k?alakallio</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6708322.6198" lon="253700.93340000045">
+  <extensions>
+    <ogr:ID>40.0</ogr:ID>
+    <ogr:Kohde>Diabaasijuoni kallioleikkauksessa</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6742735.685699999" lon="256364.03770000022">
+  <extensions>
+    <ogr:ID>95.0</ogr:ID>
+    <ogr:Kohde>Siirtolohkareryhm?</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6713290.657299999" lon="256080.3191">
+  <extensions>
+    <ogr:ID>41.0</ogr:ID>
+    <ogr:Kohde>Piikki?n linnavuori ja muinaisrannat</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6705142.004899999" lon="256259.40670000017">
+  <extensions>
+    <ogr:ID>42.0</ogr:ID>
+    <ogr:Kohde>Sile?t kalliopainanteet ja muinaishauta</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6675606.4426" lon="255765.78809999954">
+  <extensions>
+    <ogr:ID>148.0</ogr:ID>
+    <ogr:Kohde>Kalimaas?lp?louhokset</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6687570.697699999" lon="256890.8213">
+  <extensions>
+    <ogr:ID>48.0</ogr:ID>
+    <ogr:Kohde>Kallioalue, luola ja muinaisrantoja</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6733800.958" lon="259720.3509">
+  <extensions>
+    <ogr:ID>86.0</ogr:ID>
+    <ogr:Kohde>Kallioalue</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6698618.2212" lon="258575.4337">
+  <extensions>
+    <ogr:ID>49.0</ogr:ID>
+    <ogr:Kohde>Hiidenkirnut</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6665145.5385" lon="257693.45359999966">
+  <extensions>
+    <ogr:ID>162.0</ogr:ID>
+    <ogr:Kohde>Muinaisrantakivikko ja Jatulintarhan kivikeh?</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6711860.0231" lon="261321.83810000028">
+  <extensions>
+    <ogr:ID>39.0</ogr:ID>
+    <ogr:Kohde>N?k?alakallio</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6768235.2666" lon="264300.33430000022">
+  <extensions>
+    <ogr:ID>85.0</ogr:ID>
+    <ogr:Kohde>Harjualue ja harjulampi</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6762641.8344" lon="265095.3065">
+  <extensions>
+    <ogr:ID>84.0</ogr:ID>
+    <ogr:Kohde>Muinaisrantakivikko</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6661158.8089" lon="260816.58750000037">
+  <extensions>
+    <ogr:ID>161.0</ogr:ID>
+    <ogr:Kohde>Kalkkikivikaivosalue</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6715705.64" lon="263499.81749999989">
+  <extensions>
+    <ogr:ID>38.0</ogr:ID>
+    <ogr:Kohde>Paimionjokilaakso</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6759591.326199999" lon="267208.37509999983">
+  <extensions>
+    <ogr:ID>93.0</ogr:ID>
+    <ogr:Kohde>L?hdelampi</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6765877.1191" lon="268127.17569999956">
+  <extensions>
+    <ogr:ID>83.0</ogr:ID>
+    <ogr:Kohde>L?hde</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6668221.4133" lon="264041.04530000035">
+  <extensions>
+    <ogr:ID>149.0</ogr:ID>
+    <ogr:Kohde>Hiidenkirnut</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6722961.5999" lon="267735.90380000044">
+  <extensions>
+    <ogr:ID>96.0</ogr:ID>
+    <ogr:Kohde>Hiidenkirnut</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6721869.556" lon="268847.48419999983">
+  <extensions>
+    <ogr:ID>97.0</ogr:ID>
+    <ogr:Kohde>Pirunpelto ja n?k?alakallio</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6667914.9278" lon="268582.78000000026">
+  <extensions>
+    <ogr:ID>137.0</ogr:ID>
+    <ogr:Kohde>Kalkkikivikerrokset</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6749235.5482" lon="272521.38370000012">
+  <extensions>
+    <ogr:ID>82.0</ogr:ID>
+    <ogr:Kohde>L?hde</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6664631.3087" lon="269234.5948">
+  <extensions>
+    <ogr:ID>138.0</ogr:ID>
+    <ogr:Kohde>Luolat</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6683906.4601" lon="272724.07430000044">
+  <extensions>
+    <ogr:ID>147.0</ogr:ID>
+    <ogr:Kohde>Hiidenkirnu</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6680420.2729" lon="274307.5904000001">
+  <extensions>
+    <ogr:ID>127.0</ogr:ID>
+    <ogr:Kohde>Muinaisrantakivikko</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6744234.357899999" lon="278760.4029000001">
+  <extensions>
+    <ogr:ID>92.0</ogr:ID>
+    <ogr:Kohde>Keidassuo</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6696284.0533" lon="278383.72979999986">
+  <extensions>
+    <ogr:ID>106.0</ogr:ID>
+    <ogr:Kohde>Hiidenkirnu ja muinaisrantakivikko</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6737260.9436" lon="280403.852">
+  <extensions>
+    <ogr:ID>88.0</ogr:ID>
+    <ogr:Kohde>Keidassuo ja turvetuotantoalue</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6721811.8785" lon="280198.64850000013">
+  <extensions>
+    <ogr:ID>90.0</ogr:ID>
+    <ogr:Kohde>Siirtolohkare Juomakivi</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6758405.3005" lon="282172.3542">
+  <extensions>
+    <ogr:ID>81.0</ogr:ID>
+    <ogr:Kohde>Loimaan savialue</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6696846.618799999" lon="279660.85020000022">
+  <extensions>
+    <ogr:ID>103.0</ogr:ID>
+    <ogr:Kohde>Wollastoniittiesiintym? kalliossa</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6682829.7736" lon="280544.5466">
+  <extensions>
+    <ogr:ID>125.0</ogr:ID>
+    <ogr:Kohde>Keidassuo</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6720718.639699999" lon="283092.23209999967">
+  <extensions>
+    <ogr:ID>91.0</ogr:ID>
+    <ogr:Kohde>Laaja keidassuoalue</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6735600.1575" lon="283882.14829999954">
+  <extensions>
+    <ogr:ID>89.0</ogr:ID>
+    <ogr:Kohde>Harju, Hevonlinnankukkula</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6701691.9537" lon="283185.53220000025">
+  <extensions>
+    <ogr:ID>105.0</ogr:ID>
+    <ogr:Kohde>Rautakautinen kalmistoalue</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6691824.7925" lon="283747.2456">
+  <extensions>
+    <ogr:ID>101.0</ogr:ID>
+    <ogr:Kohde>Muinaisrantakivikko</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6710210.4162" lon="285195.79360000044">
+  <extensions>
+    <ogr:ID>104.0</ogr:ID>
+    <ogr:Kohde>Harjualue ja l?hde</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6695760.5362" lon="286799.8383">
+  <extensions>
+    <ogr:ID>102.0</ogr:ID>
+    <ogr:Kohde>Luola ja muinaisrantoja</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6689387.937899999" lon="289553.17879999988">
+  <extensions>
+    <ogr:ID>126.0</ogr:ID>
+    <ogr:Kohde>Luola Warkka kellar</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6681787.6202" lon="289808.0027">
+  <extensions>
+    <ogr:ID>124.0</ogr:ID>
+    <ogr:Kohde>Hiidenkiukaat</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6690156.1182" lon="292471.44909999985">
+  <extensions>
+    <ogr:ID>122.0</ogr:ID>
+    <ogr:Kohde>K??rmeenselj?nnummi jka Tuohitunnummi, reunamuodostuma</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6722798.0907" lon="294560.3322">
+  <extensions>
+    <ogr:ID>121.0</ogr:ID>
+    <ogr:Kohde>Harjualue</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6686976.309699999" lon="293047.52749999985">
+  <extensions>
+    <ogr:ID>123.0</ogr:ID>
+    <ogr:Kohde>Hiidenkirnu ja l?hde</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6688239.5576" lon="294987.15450000018">
+  <extensions>
+    <ogr:ID>128.0</ogr:ID>
+    <ogr:Kohde>Rantakerrostuma muinaisrantoineen</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6726902.8489" lon="296750.0433">
+  <extensions>
+    <ogr:ID>132.0</ogr:ID>
+    <ogr:Kohde>Keidassuo</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6731974.578" lon="297932.8114">
+  <extensions>
+    <ogr:ID>131.0</ogr:ID>
+    <ogr:Kohde>Harjukuoppa eli suppa ?mm?nkuopat</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6704169.5285" lon="299116.57589999959">
+  <extensions>
+    <ogr:ID>129.0</ogr:ID>
+    <ogr:Kohde>N?k?alakallio ja muinaisrantoja</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6678643.0222" lon="298635.10809999984">
+  <extensions>
+    <ogr:ID>112.0</ogr:ID>
+    <ogr:Kohde>Vanha kiisumalmikaivos ja poimuttunut metatuffiitti</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6721388.993" lon="301303.63109999988">
+  <extensions>
+    <ogr:ID>130.0</ogr:ID>
+    <ogr:Kohde>Rekijoen raviinit, H?nt?l?n notko</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6683212.0666" lon="304268.91399999987">
+  <extensions>
+    <ogr:ID>114.0</ogr:ID>
+    <ogr:Kohde>Konglomeraattiesiintym?</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6684453.9952" lon="305136.30269999988">
+  <extensions>
+    <ogr:ID>115.0</ogr:ID>
+    <ogr:Kohde>Deformaatiorakenteita grauvakassa</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6699868.259099999" lon="306729.12600000016">
+  <extensions>
+    <ogr:ID>110.0</ogr:ID>
+    <ogr:Kohde>It?meren korkein ranta ja 3. Salpausselk?</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6682671.562899999" lon="307347.68520000018">
+  <extensions>
+    <ogr:ID>113.0</ogr:ID>
+    <ogr:Kohde>Entinen sulfidimalmikaivosalue</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6681974.4874" lon="308367.10300000012">
+  <extensions>
+    <ogr:ID>117.0</ogr:ID>
+    <ogr:Kohde>Entinen sulfidimalmikaivos</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6683405.32" lon="308822.6162">
+  <extensions>
+    <ogr:ID>120.0</ogr:ID>
+    <ogr:Kohde>Primaarisia sedimenttirakenteita grauvakassa</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6682966.6132" lon="310104.0471">
+  <extensions>
+    <ogr:ID>119.0</ogr:ID>
+    <ogr:Kohde>Primaarisia sedimenttirakenteita grauvakassa</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6680405.5123" lon="310948.56460000016">
+  <extensions>
+    <ogr:ID>118.0</ogr:ID>
+    <ogr:Kohde>Kalkkikivi- ja rautamalmiesiintym?t</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6703849.9407" lon="312716.79470000044">
+  <extensions>
+    <ogr:ID>109.0</ogr:ID>
+    <ogr:Kohde>Varesjoen laakso, jokiraviini</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6686127.8767" lon="312350.12160000019">
+  <extensions>
+    <ogr:ID>116.0</ogr:ID>
+    <ogr:Kohde>Luolia</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6707109.1153" lon="314567.16579999961">
+  <extensions>
+    <ogr:ID>108.0</ogr:ID>
+    <ogr:Kohde>Kultal?hde</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6706510.6105" lon="314740.08910000045">
+  <extensions>
+    <ogr:ID>107.0</ogr:ID>
+    <ogr:Kohde>Hyypp?e? ja Kaskistonnummi, mannerj??tik?n reunamuodostuma, deltta ja suppa-alueet</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6708671.4342" lon="318942.89099999983">
+  <extensions>
+    <ogr:ID>111.0</ogr:ID>
+    <ogr:Kohde>Supra-akvaattinen kalliom?ki</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6703293.3923" lon="318777.795">
+  <extensions>
+    <ogr:ID>135.0</ogr:ID>
+    <ogr:Kohde>L?hde</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6704130.5855" lon="319736.90440000035">
+  <extensions>
+    <ogr:ID>134.0</ogr:ID>
+    <ogr:Kohde>Keidassuo</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6719523.1609" lon="322441.0521">
+  <extensions>
+    <ogr:ID>133.0</ogr:ID>
+    <ogr:Kohde>Deltaksi laajentunut reunamuodostuma</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6669902.6643" lon="330591.61359999981">
+  <extensions>
+    <ogr:ID>136.0</ogr:ID>
+    <ogr:Kohde>Kalkkikivilouhokset</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6704607.5675390922" lon="289776.90811212023">
+  <extensions>
+    <ogr:ID>163.0</ogr:ID>
+    <ogr:Kohde>Uskelanjoen maanvy?rym?alue</ogr:Kohde>
+    <ogr:Lähde>Geologiset kohteet, Suomen 100</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6716227.8155930331" lon="225792.91152992973">
+  <extensions>
+    <ogr:ID>164.0</ogr:ID>
+    <ogr:Kohde>H?rm?l?n rotko</ogr:Kohde>
+    <ogr:Lähde>Seikkailijan retkiopas, VS luoliin</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6725374.8858809974" lon="232191.44124936574">
+  <extensions>
+    <ogr:ID>165.0</ogr:ID>
+    <ogr:Kohde>Taka-Paltan luola</ogr:Kohde>
+    <ogr:Lähde>Seikkailijan retkiopas VS luoliin</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6725616.1397519941" lon="189756.4576064506">
+  <extensions>
+    <ogr:ID>166.0</ogr:ID>
+    <ogr:Kohde>Jeremiaan luolat</ogr:Kohde>
+    <ogr:Lähde>Seikkailijan retkiopas VS luoliin</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6722283.0805643946" lon="281151.18174980185">
+  <extensions>
+    <ogr:ID>167.0</ogr:ID>
+    <ogr:Kohde>Lotikonkellari</ogr:Kohde>
+    <ogr:Lähde>Graniittikalliolta rahkasuolle, Seikkailijan opas</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6683484.4642198952" lon="217374.14397471561">
+  <extensions>
+    <ogr:ID>170.0</ogr:ID>
+    <ogr:Kohde>Klockarbergin luolat</ogr:Kohde>
+    <ogr:Lähde>Seikkailijan retkiopas VS luoliin</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6752392.3129448919" lon="248521.04123031633">
+  <extensions>
+    <ogr:ID>169.0</ogr:ID>
+    <ogr:Kohde>Luolakallio</ogr:Kohde>
+    <ogr:Lähde>Seikkailijan retkiopas VS luoliin</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6748797.4156410014" lon="245343.87366595975">
+  <extensions>
+    <ogr:ID>168.0</ogr:ID>
+    <ogr:Kohde>Takalevon kirkko</ogr:Kohde>
+    <ogr:Lähde>Seikkailijan retkiopas VS luoliin</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6731459.8157219607" lon="312934.0574205158">
+  <extensions>
+    <ogr:ID>173.0</ogr:ID>
+    <ogr:Kohde>Luolam?en luola</ogr:Kohde>
+    <ogr:Lähde>Seikkailijan retkiopas VS luoliin</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6702136.3994989675" lon="299526.74931347102">
+  <extensions>
+    <ogr:ID>172.0</ogr:ID>
+    <ogr:Kohde>Varkaankellarinm?ki</ogr:Kohde>
+    <ogr:Lähde>Seikkailijan retkiopas VS luoliin</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6733782.7561342213" lon="227024.00342220155">
+  <extensions>
+    <ogr:ID>171.0</ogr:ID>
+    <ogr:Kohde>Kallavuoren luolat</ogr:Kohde>
+    <ogr:Lähde>Seikkailijan retkiopas VS luoliin</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6681627.6859788476" lon="289487.91688231425">
+  <extensions>
+    <ogr:ID>175.0</ogr:ID>
+    <ogr:Kohde>Antinm?en luola</ogr:Kohde>
+    <ogr:Lähde>Seikkailijan retkiopas VS luoliin</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6765965.5021815952" lon="278958.70607583586">
+  <extensions>
+    <ogr:ID>174.0</ogr:ID>
+    <ogr:Kohde>Leikkilinnan luolat</ogr:Kohde>
+    <ogr:Lähde>Seikkailijan retkiopas VS luoliin</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6719355.9453171184" lon="224254.87910106836">
+  <extensions>
+    <ogr:ID>178.0</ogr:ID>
+    <ogr:Kohde>Taipaleen luola</ogr:Kohde>
+    <ogr:Lähde>Seikkailijan retkiopas VS luoliin</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6731757.069648" lon="226998.57639483281">
+  <extensions>
+    <ogr:ID>177.0</ogr:ID>
+    <ogr:Kohde>Sika-Ky?stin luola</ogr:Kohde>
+    <ogr:Lähde>Seikkailijan retkiopas VS luoliin</ogr:Lähde>
+  </extensions>
+</wpt>
+<wpt lat="6776795.5992403049" lon="198041.43055901775">
+  <extensions>
+    <ogr:ID>176.0</ogr:ID>
+    <ogr:Kohde>Ilavan kellari</ogr:Kohde>
+    <ogr:Lähde>Seikkailijan retkiopas VS luoliin</ogr:Lähde>
+  </extensions>
+</wpt>
+</gpx>

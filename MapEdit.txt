@@ -1,0 +1,13 @@
+REST API
+ - haku bounding boxilla
+ - haku tyypillä
+
+Käyttäjähallinta
+ - Käyttäjien lisääminen/muokkaaminen/poistaminen
+ - Roolit
+ - Rekisteröityminen
+
+Aineistonhallinta
+ - Aineiston muokkaaminen(pisteiden lisääminen, muokkaaminen, poistaminen)
+ - Aineiston import
+ - Aineiston export
