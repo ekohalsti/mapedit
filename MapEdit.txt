@@ -10,4 +10,5 @@ Käyttäjähallinta
 Aineistonhallinta
  - Aineiston muokkaaminen(pisteiden lisääminen, muokkaaminen, poistaminen)
  - Aineiston import
- - Aineiston export
+ - Aineiston ex
+ - port
