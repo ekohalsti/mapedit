@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'fxabe1osh28y&&04gsq=4b0449uy#3umz8g44^d9z!3gqd@gmn'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [http://api.lounaistieto.fi]
 
 
 # Application definition
