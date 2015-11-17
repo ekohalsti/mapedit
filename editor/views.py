@@ -16,10 +16,7 @@ from rest_framework_gis.filters import InBBoxFilter
 #@api_view(['GET', 'POST'])
 #def index(request):
 
-def index(request):
-    return render_to_response('home/index.html', context_instance=RequestContext(request))
-
-class services(generics.ListAPIView):s
+class services(generics.ListAPIView):
     queryset = Varsinaissuomenpalvelut.objects.all()
     serializer_class = ServiceDataSerializer
     pagination_class = GeoJsonPagination
