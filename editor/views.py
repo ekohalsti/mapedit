@@ -17,23 +17,9 @@ from rest_framework_gis.filters import InBBoxFilter
 #def index(request):
 
 def index(request):
+    return render_to_response('home/index.html', context_instance=RequestContext(request))
 
-
-    """
-    if request.method == 'GET':
-        points = Varsinaissuomenpalvelut.objects.all()[:50]
-        serializer = ServiceDataSerializer(points, many=True)
-        pagination_class = GeoJsonPagination
-        return Response(serializer.data)
-
-    elif request.method == 'POST':
-        serializer = ServiceDataSerializer(data=request.data)
-        if serializer.is_valid:
-            serializer.save()
-            return Response(serializer.data, status=status.HTTP_201_CREATED)
-        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
-    """
-class services(generics.ListAPIView):
+class services(generics.ListAPIView):s
     queryset = Varsinaissuomenpalvelut.objects.all()
     serializer_class = ServiceDataSerializer
     pagination_class = GeoJsonPagination
