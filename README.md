@@ -1,4 +1,6 @@
 # mapedit
+
+[![Join the chat at https://gitter.im/ekohalsti/mapedit](https://badges.gitter.im/ekohalsti/mapedit.svg)](https://gitter.im/ekohalsti/mapedit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Mapeditor
 
 Requirements:
