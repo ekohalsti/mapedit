@@ -11,8 +11,6 @@ Requirements:
 Create database:
 - createdb open_data;psql open_data
 - CREATE EXTENSION postgis;
-- default user is postgres
-- default password is test123
 
 Database creation using shp2pgsql:
  - Use the name of the db & user as parameters here.
