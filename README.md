@@ -4,7 +4,7 @@ Mapeditor
 Requirements:
  - Postgresql-dev (Ubuntu: postgresql-server-dev-<version>),
  - PostGIS (Ubuntu: postgresql-<version>-postgis-2.1, postgis),
- - Python 2,
+ - Python 3,
  - Python-dev,
  - psycogp2
 
